@@ -15,7 +15,7 @@ int main(){
         else{
             printf("Incorrect Pin , try again\n\n\n");
         }
-        i++
+        i++;
     }
     printf("Select what you want to do\n\n");
     printf("1)Check Current Balance\n2)Withdraw\n");
